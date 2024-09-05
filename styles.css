@@ -1,0 +1,49 @@
+
+body {
+    color:#ffffff;
+    font-family: "Matemasie", sans-serif;
+    background : #663399;
+    margin: 0px;
+}
+
+
+header{
+    border-bottom: solid 1.5px hotpink;
+    padding: 30px;
+    font-size: 30px;
+    color:red
+    
+}
+h3{
+    color:yellow;
+    padding:27px;
+    font-size: 30px;
+}
+    h1{
+        color:rgb(255, 1, 200);
+        padding:28px;
+        font-size:28px;
+        
+    }
+    section{
+        background-color: rgb(43 170 241);
+        padding-bottom: 80px;
+    padding-top: 85px;
+display:flex;
+    }
+ p{
+    font-size:21px;
+    
+ }   
+ img{
+    height:200px
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap:15px;
+}
+section{
+    padding-left:20px;
+    padding-right:20px;
+}
